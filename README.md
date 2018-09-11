@@ -12,8 +12,8 @@ Programmēšanas soc.tīkli:
 https://edx2.etf.rtu.lv/portal (Sakai) - macību materiāli  
 github.com - mācību procesa pārvaldīšana, kodu glābšanai)  
 Komandas:  
-whoami - rāda,kas es esmu sistēma. 
-who - rāda,kas blakus ir sistēmā. 
-ls - rāda direktorijas saturu. 
-ls-a - rāda pilnu failu un mapes sarakstu,ieskaitot slēptas 
+whoami - rāda,kas es esmu sistēma.   
+who - rāda,kas blakus ir sistēmā.   
+ls - rāda direktorijas saturu.     
+ls-a - rāda pilnu failu un mapes sarakstu,ieskaitot slēptas   
 
