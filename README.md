@@ -16,4 +16,6 @@ whoami - rāda,kas es esmu sistēma.
 who - rāda,kas blakus ir sistēmā.   
 ls - rāda direktorijas saturu.     
 ls-a - rāda pilnu failu un mapes sarakstu,ieskaitot slēptas   
-
+cd/home/user - atgriezties atpakaļ  
+cd Mape - pārvietoties failu sistēmā  
+cd - atgriezties mājās  
