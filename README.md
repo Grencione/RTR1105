@@ -1,5 +1,5 @@
 # RTR1105
-Datormācības kursa eletroniskā klade.   
+Datormācības kursa eletroniskā klade
 Karstas Linux pogas :     
 Ctrl+Alt+T - atvert komandrindu  
 Alt+Tab - atgriezties Firefox  
