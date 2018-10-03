@@ -1,0 +1,38 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  idle
+    5  git clone https://github.com/liana1999valeine
+    6  git clone https://liana1999valeine/RTR1105
+    7  git clone https://github.com/liana1999valeine/RTR1105
+    8  CD
+    9  cd
+   10  ls -l
+   11  firefox
+   12  firefox
+   13  git clone https://github.com/liana1999valeine/RTR1105
+   14  idle
+   15  git clone https://github.com/liana1999valeine/RTR1105
+   16  user@epk428-3:^C[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+   17  [Child 3857, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-CQifnS/firefox-59.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+   18  CD
+   19  cd
+   20  pwd
+   21  d
+   22  d-
+   23  cd mape
+   24  pwd
+   25  nam=input('Liana')
+   26  print('Welcome',nam)
+   27  nano dgr_20181003a.py
+   28  ls -l
+   29  mv dgr_20181003a.py  RTR1105/
+   30  mv TESTS1.py  RTR1105/
+   31  ls -l
+   32  cd RTR1105/
+   33  ls -l
+   34  nano git-upload
+   35  ls -l
+   36  chmod 764 git-upload
+   37  ls -l
+   38  history > history_20181003a.txt
