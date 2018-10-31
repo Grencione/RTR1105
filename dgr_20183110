@@ -1,0 +1,64 @@
+>>> open ("teksts.txt" ,"r")
+<open file 'teksts.txt', mode 'r' at 0x7ff6742ab8a0>
+>>> open("/home/user/teksts.txt","r")
+<open file '/home/user/teksts.txt', mode 'r' at 0x7ff67413be40>
+f = open('teksts.txt')
+>>> for line in f:
+	line
+
+	
+'adjalksdjlkajs\n'
+fhand = open('teksts.txt', 'r')
+>>> handle = open('teksts.txt', 'r')
+>>> fhand=open('teksts.txt')
+>>> print(fhand)
+<open file 'teksts.txt', mode 'r' at 0x7ff673ead4b0>
+>>> fhand = open('teksts.txt')
+>>> stuff = 'Hello\nWorld!'
+>>> stuff
+'Hello\nWorld!'
+>>> print(stuff)
+Hello
+World!
+>>> stuff = 'X\nY'
+>>> print(stuff)
+X
+Y
+>>> len(stuff)
+3
+>>> xfile = open('teksts.txt')
+>>> for cheese in xfile:
+	print(cheese)
+  adjalksdjlkajs
+
+>>> fhand = open('teksts.txt')
+>>> count = 0
+>>> for line in fhand:
+	count = count + 1
+	print('Line Count:',count)
+  fhand = open('teksts.txt')
+>>> inp = fhand.read()
+>>> print(len(inp))
+15
+>>> print(inp[:20])
+adjalksdjlkajs
+
+>>> fhand=open('teksts.txt')
+>>> for line in fhand:
+	if line.startswith('teksts.txt:'):
+		print(line)
+
+		
+>>> fhand=open('teksts.txt')
+>>> for line in fhand:
+	if line.open('teksts.txt:'):
+		print(line)
+    >>> input('Ievadi kadu skaitli: ')
+Ievadi kadu skaitli: 43
+43
+>>> count=0
+>>> for line in fhand:
+	if line.startswith('Subject:'):
+		count=count+1
+		print('There were',count,'subject lines in',fname)
+
